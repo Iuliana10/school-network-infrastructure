@@ -1,4 +1,3 @@
-# school-network-infrastructure
 # Proiectare și Configurare Rețea Locală (LAN) – CNLB Sebeș
 
 Proiect complet de dimensionare, proiectare și securizare a infrastructurii de rețea campus pentru Colegiul Național „Lucian Blaga” Sebeș, acoperind parterul și etajul 1 al instituției.
